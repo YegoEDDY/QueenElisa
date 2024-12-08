@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://yegoedwin254:<db_password>@yego.vymd54d.mongodb.net/?retryWrites=true&w=majority&appName=Yego', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
